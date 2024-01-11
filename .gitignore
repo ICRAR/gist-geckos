@@ -8,6 +8,8 @@ __pycache__/
 
 dist/
 build/
+.venv/
+.vscode/
 .github/
 *.egg-info/
 *.egg
